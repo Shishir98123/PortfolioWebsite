@@ -783,13 +783,7 @@ width: 220px;
   margin-bottom: .75rem;
 }
 
-.projects__button{
-  position: absolute;
-  right: 1rem;
-  bottom: 8rem;
-  padding: 1rem;
 
-}
 
 .projects__content{
   margin-bottom: 1.25rem;
@@ -1171,9 +1165,6 @@ width: 220px;
     width: 180px;
   }
 
-  .projects__button{
-    bottom: 12rem;
-  }
 
   .about__shadow{
     height: 330px;
@@ -1202,10 +1193,6 @@ width: 220px;
     width: 350px;
     padding: 4rem 1.5rem;
     margin-inline: auto;
-  }
-
-  .projects__button{
-    bottom: 11.5rem;
   }
 
   .contact__container{
@@ -1562,10 +1549,6 @@ width: 220px;
   margin-bottom: 2rem;
 }
 
-.projects__button{
-  right: 1.25rem;
-  bottom: 12.5rem;
-}
 
 .contact__container{
    grid-template-columns: 440px 670px;
